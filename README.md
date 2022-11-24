@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekci)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Deloitte ARDC
-- 🌱 I’m currently learning C# and .Net development
+- 🌱 I’m currently learning .Net, React, Kotlin and Swift development
 - 💬 Ask me about C and C++ languages
 - 📫 How to reach me: [Derek Cortez](https://www.linkedin.com/in/derek-cortez/)
 - 😄 Pronouns: He/Him
